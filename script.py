@@ -116,7 +116,7 @@ class Tool:
             # Next we introduce the message that 
             # the client indicated in the chat input.
 
-            pyautogui.press(self.message)
+            pyautogui.typewrite(self.message)
 
         
             # Then we send the enter signal so 
