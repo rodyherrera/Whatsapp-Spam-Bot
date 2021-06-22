@@ -7,8 +7,6 @@ from os import (
     name, system
 )
 
-
-
 def FinishScript():
 
     # The FinishScript function allows you to 
