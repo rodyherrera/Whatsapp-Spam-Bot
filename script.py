@@ -109,7 +109,7 @@ class Tool:
         # For cycle that will execute 
         # the process of sending messages.
 
-        for i in range(self.repeat):
+        for i in range(0, self.repeat):
 
             # Next we introduce the message that 
             # the client indicated in the chat input.
