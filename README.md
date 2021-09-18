@@ -7,3 +7,5 @@ git clone https://github.com/RodiiHernandezz/Whatsapp-Spam-Bot/
 cd Whatsapp-Spam-Bot
 python3 script.py
 ```
+
+### Drink water :)
