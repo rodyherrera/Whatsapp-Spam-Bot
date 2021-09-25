@@ -3,7 +3,7 @@ This script written in Python allows you to send messages to WhatsApp numbers in
 
 ## Installation
 ```bash
-git clone https://github.com/RodiiHernandezz/Whatsapp-Spam-Bot/
+git clone https://github.com/codewithrodi/Whatsapp-Spam-Bot/
 cd Whatsapp-Spam-Bot
 python3 script.py
 ```
