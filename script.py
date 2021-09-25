@@ -5,7 +5,7 @@
 # *
 # * =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
 # *
-# * For related information - https://github.com/codewithrodi/ZendaJS/
+# * For related information - https://github.com/codewithrodi/Whatsapp-Spam-Bot/
 # *
 # * =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 # ****/
