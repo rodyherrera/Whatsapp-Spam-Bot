@@ -1,11 +1,17 @@
-# Whatsapp-Spam-Bot
-This script written in Python allows you to send messages to WhatsApp numbers in bulk.
+## Whatsapp Spam Bot
+##### A magical script that will send mass messages to a number you specify via whatsapp.
 
-## Installation
+### Getting starting
+You just have to execute a series of commands in your terminal to initialize the script and start sending messages in bulk to your friends via WhatsApp.
 ```bash
-git clone https://github.com/codewithrodi/Whatsapp-Spam-Bot/
+# Cloning the repository
+git clone https://github.com/CodeWithRodi/Whatsapp-Spam-Bot/
+# Entering the folder with the source code
 cd Whatsapp-Spam-Bot
-python3 script.py
+# Installing the necessary modules
+pip install -r Requirements.txt
+# Starting the script
+python3 Script.py
 ```
 
-### Drink water :)
+### Remember drink water my love.   
