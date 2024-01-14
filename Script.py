@@ -5,7 +5,7 @@
 # *
 # * =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
 # *
-# * For related information - https://github.com/codewithrodi/Whatsapp-Spam-Bot/
+# * For related information - https://github.com/rodyherrera/Whatsapp-Spam-Bot/
 # *
 # * =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 # ****/
@@ -38,8 +38,8 @@ class Tool:
             print(
             '\033[1;32;40m== == WhatsApp Spam Bot == ==\n'
             ' * Developed by Rodolfo Herrera Hernandez\n'
-            ' * https://github.com/codewithrodi/\n'
-            ' * contact@codewithrodi.com\n'
+            ' * https://github.com/rodyherrera/\n'
+            ' * contact@rodyherrera.com\n'
             )
             Option = input('\nEnter any letter / word and hit enter to run the tool: \033[1;31;40m')
         self.Start()

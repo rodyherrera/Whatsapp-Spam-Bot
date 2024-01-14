@@ -5,7 +5,7 @@
 You just have to execute a series of commands in your terminal to initialize the script and start sending messages in bulk to your friends via WhatsApp.
 ```bash
 # Cloning the repository
-git clone https://github.com/CodeWithRodi/Whatsapp-Spam-Bot/
+git clone https://github.com/rodyherrera/Whatsapp-Spam-Bot/
 # Entering the folder with the source code
 cd Whatsapp-Spam-Bot
 # Installing the necessary modules
